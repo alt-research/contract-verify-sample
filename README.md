@@ -46,7 +46,7 @@ etherscan: {
 ## Deploy Counter contract
 
 ```shell
-yarn hardhat run scripts/deploy.ts --network opdemo 
+yarn hardhat run script/deploy.ts --network opdemo 
 ```
 
 ```
