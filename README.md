@@ -49,8 +49,16 @@ etherscan: {
 yarn hardhat run scripts/deploy.ts --network opdemo 
 ```
 
+```
+https://op-demo-explorer.alt.technology/address/0xf3C5b2fbFC3944c4134fA3553Ff2cf15CD86C1D7
+```
+
 ## Verify Counter contract
 
 ```shell
 yarn hardhat verify --contract contracts/Counter.sol:Counter 0xf3C5b2fbFC3944c4134fA3553Ff2cf15CD86C1D7 --network opdemo
+```
+
+```
+https://op-demo-explorer.alt.technology/address/0xf3C5b2fbFC3944c4134fA3553Ff2cf15CD86C1D7?tab=contract
 ```
