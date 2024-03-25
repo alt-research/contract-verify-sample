@@ -25,8 +25,7 @@ networks: {
 
 ```
 etherscan: {
-    // Your API key for Etherscan
-    // Obtain one at https://etherscan.io/
+    // dummy key "abc"
     apiKey: {
       opdemo: "abc",
     },
