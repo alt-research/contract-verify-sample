@@ -20,8 +20,6 @@ const config: HardhatUserConfig = {
     }
   },
   etherscan: {
-    // Your API key for Etherscan
-    // Obtain one at https://etherscan.io/
     apiKey: {
       opdemo: "abc",
     },
