@@ -10,7 +10,7 @@ yarn
 
 ## Config network
 
-```json
+```
 networks: {
     opdemo: {
       url: 'https://op-demo.alt.technology',
@@ -23,7 +23,7 @@ networks: {
 
 ## Config etherscan 
 
-```json
+```
 etherscan: {
     // Your API key for Etherscan
     // Obtain one at https://etherscan.io/
